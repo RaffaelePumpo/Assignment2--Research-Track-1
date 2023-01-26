@@ -56,6 +56,6 @@ After the program has started, you can interact with four windows:
 
 
 ### Possible implementations
--It's not clear where the desired position is sometimes, so it would be nice to display a marker on the arena representing the goal.
+-It would be easier to see the desired position with a marker on the arena for the goal.
 
 -The robot if it is too close to an obstacle, it turns in a such a way that will have a wall on its right side, and then it continues its tasks. It would be nice to make it turns in a different way, for example, to the left side if it is the shorter way.
