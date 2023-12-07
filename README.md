@@ -5,7 +5,7 @@
 
 ## Description 
 In this assignment, I developed, by using **ROS**, three nodes and the launch file. The aim of the assignment is to allow to set value of the goal position that the robot has to reach, to stop the robot and to print the distance of the robot from the goal position and its average speed. The robot travels in a 3D simulation environment called *Gazebo*. Here is the arena:
-![Arena](Arena.jpg)
+![Arena](Assignment2--Research-Track-1/Arena.jpg)
 If the robot  is too close to an obstacle, it turns in a such a way that will have a wall on its right side, and then it continues its tasks.
 ## Running the code 
 
