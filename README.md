@@ -34,7 +34,7 @@ and the other three nodes are the ones that I developed:
 
 - `Client.py` is the action client node, allowing the user to set a target, x and y, or to cancel it. The node also publishes the robot position and velocity as a custom message.
 The behaviour of the node is explained in the following flowchart:
-![Flowchart](Flowchart_2.jpg)
+![Flowchart](Assignment2--Research-Track-1/Flowchart_2.jpg)
 - `Server.py` is the service node that, when called, prints the number of goals reached and cancelled 
 -  `Node_c.py` is the node that subscribes to the robot’s position and velocity taking the values from the custom message and prints the distance of the robot from the target and the robot’s average speed. Using a parameter to set how fast the node publishes the information.
 
